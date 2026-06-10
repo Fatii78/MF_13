@@ -56,7 +56,7 @@ export default function WeddingForm() {
         </div>
 
         <button onClick={submit}>
-          ← إرسال
+          إرسال ←
         </button>
 
       </div>

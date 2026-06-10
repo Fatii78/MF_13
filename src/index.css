@@ -7,7 +7,12 @@
 }
 
 body{
-  background:#ebd6c9;
+  background-image:url("./assets/b.jpeg");
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+
   font-family:'Tajawal',sans-serif;
   direction:rtl;
 }
